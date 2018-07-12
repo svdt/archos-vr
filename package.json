@@ -1,0 +1,29 @@
+{
+  "name": "archos",
+  "version": "1.0.0",
+  "description": "archos drone vr udp reverse engineered",
+  "main": "index.js",
+  "window": {
+    "show": true,
+    "show_in_taskbar": true
+  },
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "simple-debug": "^1.1.2",
+    "window": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svdt/archos-vr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svdt/archos-vr/issues"
+  },
+  "homepage": "https://github.com/svdt/archos-vr#readme"
+}
